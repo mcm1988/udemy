@@ -23,6 +23,7 @@ wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+The Python Mega Course/Resources
 MANIFEST
 
 # PyInstaller
